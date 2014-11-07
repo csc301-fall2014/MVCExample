@@ -1,4 +1,5 @@
-MVCExample
-==========
+# MVC example
 
-Example of the MVC design pattern
+ * [Model](https://github.com/csc301-fall2014/MVCExample/tree/model)
+ * [View](https://github.com/csc301-fall2014/MVCExample/tree/view)
+ * [Controller](https://github.com/csc301-fall2014/MVCExample/tree/controller)
